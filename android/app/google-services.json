@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "796090111714",
+    "project_id": "mancity-2f43f",
+    "storage_bucket": "mancity-2f43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796090111714:android:d1d5718813b3e3515430bb",
+        "android_client_info": {
+          "package_name": "com.example.mancity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796090111714-89fb81fmgkptulolkn6l4u0v1l50bf2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnb9Cwx8WWh0rFJRwFV_UVuYSPC8bUxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796090111714-89fb81fmgkptulolkn6l4u0v1l50bf2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796090111714:android:af50d5043fdf3c475430bb",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796090111714-89fb81fmgkptulolkn6l4u0v1l50bf2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnb9Cwx8WWh0rFJRwFV_UVuYSPC8bUxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796090111714-89fb81fmgkptulolkn6l4u0v1l50bf2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
